@@ -40,7 +40,7 @@ function App() {
 
   return (
     <>
-      <h1> DARTH VÄDER</h1>
+      <h1> DARTH väDER</h1>
 
       {weatherData.main ? (
         <>
